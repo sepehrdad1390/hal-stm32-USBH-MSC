@@ -1,0 +1,15 @@
+"D:\New folder\program_installer_location\iar for arm\arm\bin\armproc.dll"
+
+ "D:\New folder\program_installer_location\iar for arm\arm\bin\armstlink.dll"
+
+ E:\electronic\barname\stm32\TEST_USBH_msc\EWARM\TEST_USBH_msc\Exe\TEST_USBH_msc.out
+
+ "--plugin=D:\New folder\program_installer_location\iar for arm\arm\bin\armLibSupportUniversal.dll"
+
+ "--device_macro=D:\New folder\program_installer_location\iar for arm\arm/config/debugger/ST/STM32F4xx.dmac"
+
+ "--flash_loader=D:\New folder\program_installer_location\iar for arm\arm/config/flashloader/ST/FlashSTM32F4xxx.board"
+
+ 
+
+
